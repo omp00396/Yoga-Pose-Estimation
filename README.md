@@ -1,4 +1,4 @@
-#Yoga Pose Estimation using YOLOv8
+Yoga Pose Estimation using YOLOv8
 Overview
 This project aims to implement a Yoga Pose Estimation system using the YOLOv8 object detection model. YOLO (You Only Look Once) is a state-of-the-art, real-time object detection system. The YOLOv8 version introduces significant improvements in performance and accuracy. This project specifically focuses on detecting and estimating various yoga poses from input images or video streams.
 
